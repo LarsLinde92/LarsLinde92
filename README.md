@@ -1,7 +1,7 @@
 - 👋 Hello!, I’m @Lars Linde from Sweden/Halmstad, born 1992.
 - 👀 I’m interested in programming, Java/Python
 - 🌱 I’m currently studying: Object-oriented programming with Ai
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me lars.linde777@gmail.com or https://www.linkedin.com/in/lars-linde-7b355b270/
 
 <!---
